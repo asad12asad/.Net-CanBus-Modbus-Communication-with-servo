@@ -1,0 +1,2 @@
+3|***|2022-09-20 01:01:38.0295|***|14936|***|1|***|WARN|***|Delta.PLC.Network.Operator.NodeOperatorAS.SetModuleDdfVersionWarningText|***|(CPU Group, Module：CPU) AS218TX-A: Firmware version is 01.08.00, some features are not available 
+3|***|2022-09-20 05:47:26.8851|***|18608|***|1|***|WARN|***|HWCONFIG.Form_Main.Form_Main_FormClosing|***|Please close external software before closing HWCONFIG. 
